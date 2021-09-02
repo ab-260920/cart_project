@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Shampoo",
+    "description": "Shampoo is <span class=\"label label-info\"> ₹200 each</span>",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "title": "Body Wash",
+    "description": "Body Wash <span class=\"label label-info\"> ₹240 each</span>",
+    "price": 240
+  },
+  {
+    "id": 3,
+    "title": "Conditioner",
+    "description": "Conditioner is <span class=\"label label-info\"> ₹270 each</span>",
+    "price": 270
+  },
+  {
+    "id": 4,
+    "title": "Loofah",
+    "description": "Loofah is <span class=\"label label-info\"> ₹15 each</span>",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "title": "Soap",
+    "description": "Soap is <span class=\"label label-info\"> ₹70 each</span>",
+    "price": 70
+  },
+  {
+    "id": 5,
+    "title": "Detergent",
+    "description": "Detergent is <span class=\"label label-info\"> ₹150 each</span>",
+    "price": 150
+  }
+]
